@@ -3,7 +3,7 @@
 # key word: hash  countp
 import math
 from datetime import time
-
+import numpy
 
 def getseed(str1):
     """
